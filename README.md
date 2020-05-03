@@ -2,6 +2,8 @@
 
 A simple typing speed bot on [typing-speed-test.aoeu.eu](https://typing-speed-test.aoeu.eu/), using [node.js](https://nodejs.org/en/) with [puppeteer](https://www.npmjs.com/package/puppeteer).
 
+![Recordit GIF](https://drive.google.com/file/d/10kKLzSVLAANWdaRj6TT_5_uTJKjVdkN5/view?usp=sharing)
+
 ### Requirements
 
 - node  12.16.3
