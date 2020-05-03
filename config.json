@@ -1,0 +1,14 @@
+{
+	"delay" : {
+		"cpm" : 3,
+		"end_break" : 10000
+	},
+	"screen" : {	
+		"width" : 1200,
+		"height" : 800
+	},
+	"scroll" : {
+		"first" : 1000,
+		"second" : 400
+	}
+}
