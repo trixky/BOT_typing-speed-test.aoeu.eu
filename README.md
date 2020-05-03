@@ -2,7 +2,7 @@
 
 A simple typing speed bot on [typing-speed-test.aoeu.eu](https://typing-speed-test.aoeu.eu/), using [node.js](https://nodejs.org/en/) with [puppeteer](https://www.npmjs.com/package/puppeteer).
 
-![Recordit GIF](https://i.ibb.co/TtXrDvv/ezgif-com-video-to-gif.gif  | width=100)
+![Recordit GIF](https://i.ibb.co/F5rRDBx/ezgif-com-video-to-gif-2.gif)
 
 ### Requirements
 
