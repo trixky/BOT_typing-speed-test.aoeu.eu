@@ -1,6 +1,6 @@
 # BOT typing-speed-test.aoeu.eu
 
-a simple typing speed bot on [typing-speed-test.aoeu.eu](https://typing-speed-test.aoeu.eu/), using [puppeteer](https://www.npmjs.com/package/puppeteer).
+A simple typing speed bot on [typing-speed-test.aoeu.eu](https://typing-speed-test.aoeu.eu/), using [puppeteer](https://www.npmjs.com/package/puppeteer).
 
 ### requirement
 
@@ -18,12 +18,9 @@ npm start
 
 you can configure some parameters in the `config.json` file:
 
-> delay
-- cpm			(delay between each key press in ms)
-- end_break		(delay to see results in ms)
-> screen
-- width			(screen width)
-- height		(screen height)
-> scroll
-- first			(scroll to the input)
-- second		(scroll results)
+- cpm           (delay between each key press in ms)
+- end_break     (delay to see results in ms)
+- width         (screen width)
+- height        (screen height)
+- first         (scroll to the input)
+- second        (scroll to results)
