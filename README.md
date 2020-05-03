@@ -1,8 +1,8 @@
-# BOT typing-speed-test.aoeu.eu
+# wpm-bot
 
 A simple typing speed bot on [typing-speed-test.aoeu.eu](https://typing-speed-test.aoeu.eu/), using [puppeteer](https://www.npmjs.com/package/puppeteer).
 
-### requirement
+### Requirements
 
 - node  12.16.3
 - npm   6.14.4
@@ -16,7 +16,7 @@ npm start
 
 ### Optional Configuration
 
-you can configure some parameters in the `config.json` file:
+You can configure some parameters in the `config.json` file :
 
 - cpm           (delay between each key press in ms)
 - end_break     (delay to see results in ms)
